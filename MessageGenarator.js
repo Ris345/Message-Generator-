@@ -1,4 +1,4 @@
-#Message-Generator
+
 
 // Quotes Collection
 const inspiration =[' "Just when the caterpillar thought the world was ending, he turned into a butterfly." --Proverb',
@@ -14,18 +14,23 @@ const inspiration =[' "Just when the caterpillar thought the world was ending, h
 ' "All things good to know are difficult to learn." —greek proverb',
 ' "Happiness is when what you think, what you say and what you do are in harmony." — Mahatma Gandhi',
 ' "Don\'t raise your voice, improve your argument." --Anonymous',
-'An investment in knowledge always pays the best interest. — Benjamin Franklin']
+'An investment in knowledge always pays the best interest. — Benjamin Franklin'];
 
-const days =  ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday']
+const days =  ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'];
 
 const phrase = ['meditate on:','how about:','focus on:','consider:','remember:','keep in mind:'];
+
 // Function to generate random Number.
 function generateRandomNumber(num){
  let x = Math.floor(Math.random() * inspiration.length);
  let y = Math.floor(Math.random() * days.length);
  let z = Math.floor(Math.random() * phrase.length);
+
  // The result, randomizes the output.
- return `${days[y]} ${phrase[z]} ${inspiration[x]}`;
+ console.log(`${days[y]} ${phrase[z]} ${inspiration[x]}`);
+ 
 }
+
+
 
 generateRandomNumber(days);
