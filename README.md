@@ -2,13 +2,13 @@
 
 # **CODECADEMY PROJECT** 
 
-## Random Message Genarator 
+## Random Message Generator 
 
 ## *Inspirational Message Generator*
 
 ## Objectives 
 
-- Random Message Genarator Program Using Java Script 
+- Random Message Generator Program Using Java Script 
 - Git Version Control 
 - Command Line 
 - Develop Locally 
