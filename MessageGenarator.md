@@ -1,10 +1,10 @@
-# Message-Generator-
+
 
 # **CODECADEMY PROJECT** 
 
 ## Random Message Genarator 
 
-## * Inspirational Message Generator*
+## *Inspirational Message Generator*
 
 ## Objectives 
 
@@ -18,13 +18,16 @@ This project is a portfolio project created for the Codacademy Full Stack Engine
 
 ## Technologies Used 
 - JavaScript ES6 
-- HTML5
-- CSS 
 - Mark Down 
+- Node js 
+
 
 ### Notes
-As I was working on this project as a beginner I realized the importance of 
-minimizing my code so that it does just what it is intended to do. 
+To run it locally download the .js file and run it in the terminal/bash.
+
+node MessageGenerator.js 
+
+
 
 
 
