@@ -1,28 +1,28 @@
 # Message-Generator-
 
-#**CODECADEMY PROJECT** 
+# **CODECADEMY PROJECT** 
 
-##Random Message Genarator 
+## Random Message Genarator 
 
-###*Inspirational Message Generator*
+## * Inspirational Message Generator*
 
-##Objectives 
+## Objectives 
 
--Random Message Genarator Program Using Java Script 
--Git Version Control 
--Command Line 
--Develop Locally 
+- Random Message Genarator Program Using Java Script 
+- Git Version Control 
+- Command Line 
+- Develop Locally 
 
-##General Information 
+## General Information 
 This project is a portfolio project created for the Codacademy Full Stack Engineering Path. It'a a simple code that randomizes three different arrays and produces an output. The information is based on inspirational quotes, outputs a random message on on a random day with a random phrase in between. 
 
-##Technologies Used 
--JavaScript ES6 
--HTML5
--CSS 
--Mark Down 
+## Technologies Used 
+- JavaScript ES6 
+- HTML5
+- CSS 
+- Mark Down 
 
-Notes- 
+### Notes
 As I was working on this project as a beginner I realized the importance of 
 minimizing my code so that it does just what it is intended to do. 
 
@@ -32,4 +32,3 @@ minimizing my code so that it does just what it is intended to do.
 
 
 
-g
